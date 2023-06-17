@@ -38,7 +38,27 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+
+
+
+
+    
+      <dependency>
+        <groupId>org.vesalainen.comm</groupId>
+        <artifactId>javaxcomm</artifactId>
+        <version>1.0.1</version>
+      </dependency>
+    
+      <dependency>
+        <groupId>org.apache.edgent.android</groupId>
+        <artifactId>edgent-connectors-serial</artifactId>
+        <version>1.2.0</version>
+      </dependency>
     </dependencies>
+
+
+
+
 
     <build>
         <plugins>
@@ -76,3 +96,4 @@
         </plugins>
     </build>
 </project>
+

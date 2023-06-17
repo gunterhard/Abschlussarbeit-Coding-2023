@@ -1,14 +1,18 @@
 package com.example.abschlussprojekt2023;
 
-public class Loops extends Objects{
+import javafx.scene.layout.VBox;
+
+public class Loops extends Objects {
 
 
-    /*
-    private static final String image = "";
-    private String url;
+    public Loops(VBox process, VBox objects) {
+        super(process, objects);
+    }
 
-    setImage(new Image(Card.class.getResource(unknown).toExternalForm()));
+    @Override
+    public void initRectangle() {
 
+        super.initRectangle();
 
-     */
+    }
 }

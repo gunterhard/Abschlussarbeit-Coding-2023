@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="097eef40-b351-4244-953c-16e9411a519f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Delay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Delay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Humidity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Humidity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/LoopEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/LoopEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/LoopStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/LoopStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/abschlussprojekt2023/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Delay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Delay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Humidity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Humidity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/LoopEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/LoopEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/LoopStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/LoopStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Objects.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Objects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Temperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/example/abschlussprojekt2023/Temperature.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QvACnbVSvb8JL07iS9bwIWzDaK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/luiseschedlberger/Library/CloudStorage/OneDrive-EuropagymnasiumBaumgartenberg/Coding/Objektorientiere Programmierung mit Java/Abschlussprojekt2023/GitHub/Abschlussarbeit-Coding-2023/Abschlussprojekt2023/PythonScripts"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097eef40-b351-4244-953c-16e9411a519f" name="Changes" comment="" />
+      <created>1686223556421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686223556421</updated>
+    </task>
+    <servers />
+  </component>
+</project>
